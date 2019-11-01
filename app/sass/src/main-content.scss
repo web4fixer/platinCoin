@@ -1,6 +1,6 @@
 
 .slider {
-  background-image: url('../../img/slider-bg.jpg');
+  background-image: url("../img/slider-bg.jpg");
   background-size: cover;
   background-repeat:no-repeat;
   background-position: center;
@@ -61,7 +61,7 @@
   opacity: 0.5;
 }
 .play__btn {
-  background-image: url("../../img/play-icon.svg");
+  background-image: url("../img/play-icon.svg");
   background-size: cover;
   height: 186px;
   width: 186px;
@@ -228,7 +228,7 @@
         left: -60px;
         height:48px;
         width: 48px;
-        background-image: url("../../img/ic_plc-farm.svg");
+        background-image: url("../img/ic_plc-farm.svg");
       }
     }
   }
@@ -248,7 +248,7 @@
         left: 254px;
         height:48px;
         width: 48px;
-        background-image: url("../../img/ic_plc-farm.svg");
+        background-image: url("../img/ic_plc-farm.svg");
       }
     }
   }
@@ -299,7 +299,7 @@
   .salary__img {
     height: 90px;
     width: 90px;
-    background-image: url("../../img/premium.svg");
+    background-image: url("../img/premium.svg");
     margin-bottom: 32px;
   }
   .salaryItem__salary {
